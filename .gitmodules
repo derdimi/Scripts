@@ -1,0 +1,3 @@
+[submodule "OpenCMD"]
+	path = OpenCMD
+	url = https://github.com/derdimi/OpenCMD.git
