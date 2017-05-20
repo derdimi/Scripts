@@ -1,3 +1,6 @@
 [submodule "OpenCMD"]
 	path = OpenCMD
 	url = https://github.com/derdimi/OpenCMD.git
+[submodule "Gists/git-author-rewrite"]
+	path = Gists/git-author-rewrite
+	url = https://gist.github.com/0831f3fbd83ac4d46451.git
